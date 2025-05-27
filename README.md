@@ -1,6 +1,6 @@
 # Azure Car Sales Data Pipeline
 
-![Azure Data Pipeline Architecture](images/image.png)
+![Azure Data Pipeline Architecture](https://github.com/sh1ro47/Azure-Data-Engineering-Pipeline-using-ADF-and-Databricks/blob/main/image.png)
 
 An end-to-end data engineering solution automating car sales data processing and reporting using Microsoft Azure's data ecosystem.
 
