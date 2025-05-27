@@ -1,6 +1,6 @@
 # Azure Car Sales Data Pipeline
 
-![Azure Data Pipeline Architecture](images/azure-data.jpg)
+![Azure Data Pipeline Architecture](images/image.png)
 
 An end-to-end data engineering solution automating car sales data processing and reporting using Microsoft Azure's data ecosystem.
 
